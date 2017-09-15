@@ -1,0 +1,47 @@
+.mpdd-top-wrapper {
+	    position: fixed;
+	    z-index: 10;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	    height: .45rem;
+	    font-size: 0;
+	    background: url(/assets/img/mpdd_top_bg.png) no-repeat;
+	    background-size: 100% 100%;
+	}
+	.mpdd-top-wrapper .mpdd-top-logo {
+	    position: relative;
+	    display: inline-block;
+	    float: lef
+	    width: .9rem;
+	    height: .3rem;
+	    margin-left: .13rem;
+	}
+	.mpdd-top-wrapper .mpdd-top-logo img {
+	    position: relative;
+	    width: 100%;
+	    height: 100%;
+	    margin-top: .075rem;
+	    vertical-align: middle;
+	}
+	.mpdd-top-wrapper span {
+	    display: inline-block;
+	    height: .45rem;
+	    margin-left: .2rem;
+	    font-size: .12rem;
+	    line-height: .45rem;
+	    color: #fff;
+	}
+	.mpdd-top-wrapper .mpdd-top-btn {
+	    position: absolute;
+	    width: .74rem;
+	    height: .27rem;
+	    top: .09rem;
+	    right: .1rem;
+	    font-size: .14rem;
+	    line-height: .28rem;
+	    text-align: center;
+	    color: #ed2632;
+	    border-radius: .025rem;
+	    background-color: #fff;
+	}
